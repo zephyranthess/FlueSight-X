@@ -1,0 +1,73 @@
+APP NAME (max 30)
+FlueSight X
+
+SUBTITLE (max 30)
+Chimney Inspections & Reports
+
+PROMOTIONAL TEXT (max 170; can be changed any time without a new review)
+Walk the chimney, photograph what you find, then hand over a PDF report and a repair quote. No account and no internet needed. Everything stays on your device.
+
+DESCRIPTION
+FlueSight X is for chimney sweeps and inspectors who want to finish the paperwork on site instead of at night. Record the inspection, write up the findings, prepare the quote and send the report, all from your iPhone or iPad.
+
+GUIDED INSPECTIONS
+Start from the customer's property and choose the appliance, chimney type, fuel and inspection level. The checklist follows your choices, so you only see the parts that apply. Mark each part OK, Needs attention, Hazard or Not inspected. Change the inspection level at any point if the job turns out to need more.
+
+PHOTOS THAT EXPLAIN THE PROBLEM
+Take photos with the camera, or add pictures from your photo library or Files, for example stills from a chimney camera. Circle, point and label what matters. The original photo is always kept. Compare photos from past visits side by side.
+
+A FINDINGS LIBRARY IN PLAIN LANGUAGE
+Pick findings from a built-in starter library, with a description and a recommended action. Edit them, add your own, hide or reorder them, and mark favourites. The starter wording is a starting point: review it and adjust it to your own practice and local rules.
+
+QUOTES CUSTOMERS CAN FOLLOW
+Turn findings into repair items with your own prices, tax and deposit. Offer Good, Better and Best options, show the quote to the homeowner in large, calm type, and have them sign on the screen. Signed quotes are locked, and later changes become a new revision.
+
+PDF REPORTS
+Create a clear PDF report with your business name, logo and licence numbers, your findings and photos. Share it with Mail, Messages, AirDrop or Files.
+
+JOBS AND REMINDERS
+Keep customers, properties and appliances in one place. Schedule jobs on a calendar and get a reminder when a customer is due for their annual service. Export customer and inspection lists as CSV.
+
+BUILT FOR THE JOB
+Large tap targets, light and dark appearance, and full support for iPhone and iPad, including Dynamic Type. The app works fully offline and saves your work as you go.
+
+PRIVATE BY DESIGN
+No account, no ads, no analytics and no tracking. The app does not connect to the internet. Your customers, photos and reports are stored only on your device and leave it only when you choose to share them.
+
+FlueSight X is a tool for qualified professionals. You are responsible for your inspections, findings, reports and quotes.
+
+Privacy Policy: https://zephyranthess.github.io/FlueSight-X/privacy_policy.html
+Terms of Use: https://zephyranthess.github.io/FlueSight-X/terms_of_use.html
+Support: https://zephyranthess.github.io/FlueSight-X/support.html
+
+KEYWORDS (max 100 bytes; words already in the name or subtitle are not repeated)
+sweep,flue,fireplace,stove,hearth,creosote,quote,estimate,checklist,inspector,photo,customer
+
+WHAT'S NEW
+First release.
+
+SUPPORT URL
+https://zephyranthess.github.io/FlueSight-X/support.html
+
+MARKETING URL
+https://zephyranthess.github.io/FlueSight-X/
+
+PRIVACY POLICY URL
+https://zephyranthess.github.io/FlueSight-X/privacy_policy.html
+
+COPYRIGHT
+2026 Norfa
+
+CATEGORIES
+Primary: Business. Secondary: Productivity.
+
+APP PRIVACY
+Data Not Collected.
+
+AGE RATING
+4+ (all content descriptions None / No).
+
+REVIEW NOTES
+FlueSight X has no accounts, no sign-in and no server, so no demo account is needed. All data is stored on the device and the app makes no network connections.
+To try it: open the Customers tab, tap +, add a customer, open the customer and tap Add property with an address. Then tap Start inspection, choose the appliance, chimney type, fuel and inspection level, and tap Start inspection again. Mark components, add a finding from the library, and tap Finish inspection. From the finished inspection you can tap Create report for a PDF, and open the repair quote and tap Present to customer to show it and capture a signature. Settings > About has the Privacy Policy and Terms of Use.
+Permissions are requested only when used: the camera when you tap Camera on a component, the photo library when you tap Library, and notifications when you turn on Settings > Service reminders.
